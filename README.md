@@ -6,8 +6,8 @@ Programming for Data Analysis Assignment
 - Run the Jupyter Notebook in Visual Studio Code terminal or cmder terminal
 - Open the notebook PfDA_Assignment.ipynb
   
-![Screenshot](installation.PNG)
-![Screenshot](installation1.PNG)
-![Screenshot](installation2.PNG)
-![Screenshot](installation3.PNG)
+![Screenshot](./files/installation.PNG)
+![Screenshot](./files/installation1.PNG)
+![Screenshot](./files/installation2.PNG)
+![Screenshot](./files/installation3.PNG)
 
